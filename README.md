@@ -3,7 +3,7 @@
 Collection of Data Science Challenges
 
 ## 01 Classification
-
+[source](https://github.com/icaropaiv/challenges_data_science/blob/main/CHALLENGE_01(C).ipynb)
 
 ## 02 Regression
 
